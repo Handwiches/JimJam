@@ -89,6 +89,8 @@
      <Compile Include="Assets\Scripts\OldScripts\billboard.cs" />
      <Compile Include="Assets\Scripts\OldScripts\jimControl.cs" />
      <Compile Include="Assets\Scripts\OldScripts\jimControl_Test.cs" />
+     <Compile Include="Assets\Scripts\enemyStats.cs" />
+     <Compile Include="Assets\Scripts\fightManager.cs" />
      <Compile Include="Assets\Scripts\memorySceneManager.cs" />
      <Compile Include="Assets\Scripts\playerStats.cs" />
      <Compile Include="Assets\Scripts\textTyper.cs" />
