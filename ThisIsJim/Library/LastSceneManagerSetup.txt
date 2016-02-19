@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/ApartmentScenes/JimApartment_Main.unity
+- path: Assets/Scenes/FightSceneTest.unity
   isLoaded: 1
   isActive: 1

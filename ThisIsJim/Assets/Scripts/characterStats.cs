@@ -1,12 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class playerStats : MonoBehaviour {
+public class characterStats : MonoBehaviour {
 
 	//The stats will be ATK (Attack), DEF (Defense), SPD (Speed), MOD (Mood),
 	//MRY (Memory), LCK (Luck), HP (Health Points), and MP (Memory Points).
 
 	public string name = "Jim";
+	public bool enemy = false;
 
 	public float attack = 25.0f; //Standard attack strength
 	float baseAttack;
